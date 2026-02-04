@@ -1,0 +1,9 @@
+[project]
+name = "my-agentic-project"
+version = "0.1.0"
+description = "Python scaffolding for an agentic project."
+readme = "README.md"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
